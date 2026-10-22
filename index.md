@@ -20,7 +20,7 @@ I study how hadrosaur dinosaurs can help us understand the health of Cretaceous 
 
 You can view or download my CV below.
 
-[View My CV (PDF)](Rachel CV.pdf){:target="_blank"}
+[View My CV (PDF)](Rachel CV.pdf)
 
 [Download My CV](Rachel CV.pdf)
  
