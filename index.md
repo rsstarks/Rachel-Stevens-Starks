@@ -7,7 +7,7 @@ layout: default
 
 **M.S. Student in Geology**  
 University of Wyoming
-
+![Photo of Rachel](me.jpg)
 **Advisor:** Laura Vietti
 
 ## Research
@@ -15,6 +15,7 @@ University of Wyoming
 ### Wyoming Hadrosaurs
 
 I study how hadrosaur dinosaurs can help us understand the health of Cretaceous ecosystems. By investigating these dinosaurs, my research aims to contribute to our understanding of ancient environments and the ecosystems in which they lived.
+![Hadrosaur fossil](hadro%20pic.jpg) 
 
 ## Curriculum Vitae
 
