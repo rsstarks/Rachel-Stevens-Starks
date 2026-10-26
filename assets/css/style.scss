@@ -1,1 +1,40 @@
 /* Rachel's website stylesheet */
+
+---
+---
+
+body {
+  background: #faf8f2;
+  color: #303a33;
+  font-family: Arial, sans-serif;
+  line-height: 1.8;
+}
+
+.main-content {
+  max-width: 950px;
+  padding: 3rem 2rem;
+}
+
+h1, h2, h3 {
+  color: #304b3b;
+  font-family: Georgia, serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  border-bottom: 1px solid #d9dfd5;
+  padding-bottom: 0.5rem;
+}
+
+a {
+  color: #456b50;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
