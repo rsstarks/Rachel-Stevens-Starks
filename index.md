@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Rachel Stevens-Starks
 ---
 
 # Rachel Stevens-Starks
