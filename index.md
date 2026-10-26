@@ -2,12 +2,12 @@
 layout: default
 title: Rachel Stevens-Starks
 ---
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 # Rachel Stevens-Starks
 
 **M.S. Student in Geology**  
 University of Wyoming
-![Photo of Rachel](Me%20and%20jacket.jpg)
+![Photo of Rachel](Roping.jpg)
 **Advisor:** Laura Vietti
 
 I am a Wyoming native pursuing my M.S. in Geology at the University of Wyoming. I have a strong personal connection to this state and plan to continue my education and research here.
