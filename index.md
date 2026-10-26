@@ -5,6 +5,7 @@ title: Rachel Stevens-Starks
 
 # Rachel Stevens-Starks
 <img src="Roping%20.jpg" width="300" alt="Portrait">
+
 **M.S. Student in Geology**  
 University of Wyoming
 
