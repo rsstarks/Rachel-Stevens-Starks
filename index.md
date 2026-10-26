@@ -7,7 +7,7 @@ layout: default
 
 **M.S. Student in Geology**  
 University of Wyoming
-(![Photo of Rachel](Me%20and%20jacket.jpg))
+(![Photo of Rachel](Roping.jpg)
 **Advisor:** Laura Vietti
 
 ## Research
