@@ -7,7 +7,7 @@ title: Rachel Stevens-Starks
 
 **M.S. Student in Geology**  
 University of Wyoming
-(Roping.jpg)
+![Photo of Rachel](Roping.jpg)
 **Advisor:** Laura Vietti
 
 I am a Wyoming native pursuing my M.S. in Geology at the University of Wyoming. I have a strong personal connection to this state and plan to continue my education and research here.
