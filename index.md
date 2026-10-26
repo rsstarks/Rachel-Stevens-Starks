@@ -9,14 +9,13 @@ title: Rachel Stevens-Starks
 **M.S. Student in Geology**  
 University of Wyoming
 Email: rsteve13@uwyo.edu
+I am a Wyoming native pursuing my M.S. in Geology at the University of Wyoming. I have a strong personal connection to this state and plan to continue my education and research here.
 
 **Advisor:** 
 Laura Vietti, Ph.D.
 Museum and Collections Manager
 University of Wyoming Geological Museum
 Email: Lvietti@uwyo.edu
-
-I am a Wyoming native pursuing my M.S. in Geology at the University of Wyoming. I have a strong personal connection to this state and plan to continue my education and research here.
 
 ## Research
 
