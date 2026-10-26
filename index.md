@@ -20,6 +20,12 @@ My research explores how hadrosaur dinosaurs can help us understand the health o
 
 ![Hadrosaur fossil](hadro%20pic.jpg)
 
+## Keeping Wyoming's Fossils in Wyoming
+
+As a Wyoming native, I hope to work alongside local communities, ranchers, and landowners to help preserve our state's fossil heritage and keep Wyoming's paleontological resources connected to the people and communities where they are found. I want to help build paleontology programs here at home that expand access to education, inspire curiosity about our ancient past, and create opportunities for students to explore Wyoming in a new way. 
+
+
+
 ## Curriculum Vitae
 
 Explore my academic background, research experience, and qualifications.
