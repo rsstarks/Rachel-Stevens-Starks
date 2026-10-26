@@ -4,7 +4,7 @@ title: Rachel Stevens-Starks
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 # Rachel Stevens-Starks
-
+![Photo of Rachel] (Me%20and%20jacket.jpg) 
 **M.S. Student in Geology**  
 University of Wyoming
 
