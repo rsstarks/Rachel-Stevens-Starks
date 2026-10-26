@@ -2,7 +2,7 @@
 layout: default
 title: Rachel Stevens-Starks
 ---
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 # Rachel Stevens-Starks
 
 **M.S. Student in Geology**  
