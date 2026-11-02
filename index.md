@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Rachel Stevens-Starks
 
 <img src="Roping%20.jpg" width="300" alt="Portrait">
 
